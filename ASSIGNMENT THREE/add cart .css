@@ -1,0 +1,73 @@
+
+#{
+ margin: 0%;
+ padding: 0%;
+ box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.align{
+    max-width: 585px;
+    background-color:azure;
+    margin:0 auto;
+
+
+  
+}
+
+label{
+    width: 7rem;
+    display: inline-block;
+    text-align: center;
+
+}
+input{
+    width: 330px;
+    height: 25px;
+    border-top: 0;
+    border-right: 0;
+     border-left: 0;
+     border-radius: 1.5px;
+     border-color: aquamarine;
+     
+}
+form{
+    text-align: center;
+}
+h1{
+    background-color: red;
+}
+h4{
+    color: red;
+}
+h3{
+    background-color: gray;
+}
+select{
+    width: 330px;
+    height: 25px;
+    border-top: 0;
+    border-right: 0;
+     border-left: 0;
+     border-radius: 1.5px;
+     border-color: aquamarine;
+     }
+     fieldset{
+       max-width: 40px;
+       text-align: center;
+       margin : auto;
+
+     }
+     textarea{
+        width: 330px;
+        max-height:  32px;
+        border-top: 0;
+        border-right: 0;
+         border-left: 0;
+         border-radius: 1.5px;
+         border-color: aquamarine;
+         padding-bottom: 25px;
+         
+     }
+    
